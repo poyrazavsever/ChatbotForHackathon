@@ -8,7 +8,6 @@ export default function Home() {
         <title>Gemini Chatbot</title>
       </Head>
       <main>
-        <h1 className="text-2xl text-center mt-4">Gemini Chatbot</h1>
         <ChatInterface />
       </main>
     </>
